@@ -7,7 +7,7 @@ body:
     id: block
     attributes:
       label: 段落ID
-      description: "yaku/ の行頭にある ID（例: uchida-ryouhei-1090819-0001）"
+      description: "yaku/ の行頭にある ID（例: uchida-ryouhei-1090819-0089）"
     validations:
       required: true
   - type: textarea
